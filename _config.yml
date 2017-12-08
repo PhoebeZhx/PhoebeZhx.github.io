@@ -18,8 +18,8 @@ sidebar-avatar: /img/avatar-m      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-# weibo_username:     雪小球子
-zhihu_username:     qiubaiying
+weibo_username:     雪小球子
+zhihu_username:     xuequizi
 github_username:    PhoebeZhx
 facebook_username:  
 jianshu_username:   
